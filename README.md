@@ -41,8 +41,12 @@ The data for this project is sourced from a Kaggle dataset.
 14. Find the top 10 actors who have appeared in the highest number of movies produced in India.
 15. Categorize content based on the presence of 'Kill' and 'violence' keywords
 
+## Findings
 
+The dataset offers insights into content distribution, common ratings, regional trends, and categorization by keywords. This analysis helps understand Netflix's content and informs content strategy and decision-making.
 
+## Conclusion
+This project is part of my portfolio, highlighting SQL skills for data analyst roles. If you have any questions, feedback, or want to collaborate, feel free to reach out!
 
 
 
