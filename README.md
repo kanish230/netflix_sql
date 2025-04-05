@@ -46,7 +46,7 @@ The data for this project is sourced from a Kaggle dataset.
 The dataset offers insights into content distribution, common ratings, regional trends, and categorization by keywords. This analysis helps understand Netflix's content and informs content strategy and decision-making.
 
 ## Conclusion
-This project is part of my portfolio, highlighting SQL skills for data analyst roles. If you have any questions, feedback feel free to reach out!
+This project is part of my portfolio, highlighting SQL skills for data analyst roles. If you have any questions or feedback, feel free to reach out to me.
 
 
 
